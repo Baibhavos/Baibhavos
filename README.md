@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a backend developer.<br>👯 I’m looking to collaborate on exciting projects.<br>🤝 I’m looking for help with advanced backend development.<br>🌱 I’m currently learning and growing everyday.
+🔭 I’m currently working as a fullstack developer.<br>👯 I’m looking to collaborate on exciting projects.<br>🤝 I’m looking for help with advanced backend development.<br>🌱 I’m currently learning and growing everyday.
 
 
 ## 🌐 Socials:
